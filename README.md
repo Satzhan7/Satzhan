@@ -4,7 +4,7 @@
 
 (img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif")
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python3**
 
 - 👯 I’m looking to collaborate on **Software projects**
 
