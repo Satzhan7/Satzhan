@@ -1,14 +1,14 @@
 [![MasterHead](https://repository-images.githubusercontent.com/354305485/122e2bce-0471-46d0-9cc9-686ce2992dc9)]
 
-<h3 align="center">A programmer from Kazakhstan</h3>
+<h3 align="center">CS Major and enthusiast Data Analyst</h3>
 
 (img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif")
 
-- 🌱 I’m currently learning **Python3**
+- 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on **Software projects**
+- 👯 I’m looking to collaborate on **Bussiness ideas**
 
-- 🤝 I’m looking for help with **android development**
+- 🤝 I’m looking for help with **Application development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satzhan7?tab=projects](https://github.com/Satzhan7?tab=projects)
 
